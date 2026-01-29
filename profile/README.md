@@ -64,3 +64,8 @@ Feel free to open an **issue**, **discussion**, or **pull request**.
 ## ⭐ Why GemFund?
 Because generosity should never be exploited.  
 We use AI not to replace trust — but to **protect it**.
+
+
+<p align="center">
+  Keep Stepin' Up
+</p>
